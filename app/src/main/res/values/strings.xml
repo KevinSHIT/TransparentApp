@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="introduction">这是一个伪造为透明的程序，如果你能找到它，那你的眼神可棒啦！</string>
+    <string name="powered">Powered By Kucashu</string>
+</resources>
